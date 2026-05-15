@@ -35,7 +35,7 @@ cd ~/.config/DankMaterialShell/plugins
 git clone https://github.com/pseudofractal/AsusControl.git
 ```
 
-Once installed, restart DankMaterialShell using `dms restart`.
+Once installed, restart DankMaterialShell using `hype restart`.
 
 ## Usage
 
